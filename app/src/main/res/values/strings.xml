@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">kStubbsMMMedley</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kyle Stubbs</string>
+    <string name="nav_header_subtitle">kylestubbs@ucsb.edu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_imagescaling">Image Scaling</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_texttospeech">Text to Speech</string>
+    <string name="menu_speechtotext">Speech to Text</string>
+    <string name="menu_fireworks">Fireworks</string>
+</resources>
